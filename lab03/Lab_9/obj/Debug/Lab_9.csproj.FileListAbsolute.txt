@@ -1,0 +1,339 @@
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\ApplicationInsights.config
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\Lab_9.dll.config
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\Lab_9.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\Lab_9.pdb
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\csc.exe
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\csc.exe.config
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\csc.rsp
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\csi.exe
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\csi.exe.config
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\csi.rsp
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\System.AppContext.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\System.Collections.Immutable.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\System.Console.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\System.Diagnostics.Process.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\System.IO.Compression.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\System.IO.FileSystem.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\System.IO.Pipes.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\System.Reflection.Metadata.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\System.Security.AccessControl.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\System.Security.Claims.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\System.Threading.Thread.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\System.ValueTuple.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\System.Xml.XPath.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\vbc.exe
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\vbc.exe.config
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\vbc.rsp
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\VBCSCompiler.exe
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\roslyn\VBCSCompiler.exe.config
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\Antlr3.Runtime.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\EntityFramework.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\EntityFramework.SqlServer.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\Microsoft.AI.DependencyCollector.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\Microsoft.AI.Web.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\Microsoft.AI.WindowsServer.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\Microsoft.ApplicationInsights.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\Microsoft.Web.Infrastructure.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\Newtonsoft.Json.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\System.Net.Http.Formatting.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\System.Web.Helpers.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\System.Web.Http.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\System.Web.Http.WebHost.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\System.Web.Mvc.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\System.Web.Optimization.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\System.Web.Razor.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\System.Web.WebPages.Deployment.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\System.Web.WebPages.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\System.Web.WebPages.Razor.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\WebGrease.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\EntityFramework.xml
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\EntityFramework.SqlServer.xml
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\Newtonsoft.Json.xml
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\System.Net.Http.Formatting.xml
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\System.Web.Helpers.xml
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\System.Web.Http.xml
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\System.Web.Http.WebHost.xml
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\System.Web.Mvc.xml
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\System.Web.Optimization.xml
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\System.Web.Razor.xml
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\System.Web.WebPages.xml
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\System.Web.WebPages.Deployment.xml
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\System.Web.WebPages.Razor.xml
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\Antlr3.Runtime.pdb
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\Microsoft.ApplicationInsights.xml
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\Microsoft.AI.DependencyCollector.xml
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\Microsoft.AI.WindowsServer.xml
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\Microsoft.AI.Web.xml
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\ru\System.Web.Helpers.resources.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\ru\System.Web.Http.resources.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\ru\System.Web.Mvc.resources.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\ru\System.Web.Optimization.resources.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\ru\System.Web.Razor.resources.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\ru\System.Web.WebPages.resources.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\obj\Debug\Lab_9.csprojAssemblyReference.cache
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\obj\Debug\Lab_9.Migrations.init.resources
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\obj\Debug\Lab_9.csproj.GenerateResource.cache
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\obj\Debug\Lab_9.csproj.CoreCompileInputs.cache
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\obj\Debug\Lab_9.csproj.CopyComplete
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\obj\Debug\Lab_9.dll
+D:\Кирилл\Универ\Основы программирования интернет-приложений\9(какая-то другая)\Lab_9\obj\Debug\Lab_9.pdb
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\ApplicationInsights.config
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\Lab_9.dll.config
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\Lab_9.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\Lab_9.pdb
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\csc.exe
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\csc.exe.config
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\csc.rsp
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\csi.exe
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\csi.exe.config
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\csi.rsp
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\System.AppContext.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\System.Collections.Immutable.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\System.Console.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\System.Diagnostics.Process.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\System.IO.Compression.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\System.IO.FileSystem.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\System.IO.Pipes.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\System.Reflection.Metadata.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\System.Security.AccessControl.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\System.Security.Claims.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\System.Security.Principal.Windows.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\System.Threading.Thread.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\System.ValueTuple.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\System.Xml.XmlDocument.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\System.Xml.XPath.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\vbc.exe
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\vbc.exe.config
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\vbc.rsp
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\VBCSCompiler.exe
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\roslyn\VBCSCompiler.exe.config
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\Antlr3.Runtime.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\EntityFramework.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\EntityFramework.SqlServer.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\Microsoft.AI.Agent.Intercept.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\Microsoft.AI.DependencyCollector.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\Microsoft.AI.Web.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\Microsoft.AI.WindowsServer.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\Microsoft.ApplicationInsights.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\Microsoft.Web.Infrastructure.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\Newtonsoft.Json.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\System.Net.Http.Formatting.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\System.Web.Helpers.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\System.Web.Http.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\System.Web.Http.WebHost.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\System.Web.Mvc.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\System.Web.Optimization.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\System.Web.Razor.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\System.Web.WebPages.Deployment.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\System.Web.WebPages.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\System.Web.WebPages.Razor.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\WebGrease.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\EntityFramework.xml
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\EntityFramework.SqlServer.xml
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\Newtonsoft.Json.xml
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\System.Net.Http.Formatting.xml
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\System.Web.Helpers.xml
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\System.Web.Http.xml
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\System.Web.Http.WebHost.xml
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\System.Web.Mvc.xml
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\System.Web.Optimization.xml
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\System.Web.Razor.xml
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\System.Web.WebPages.xml
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\System.Web.WebPages.Deployment.xml
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\System.Web.WebPages.Razor.xml
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\Antlr3.Runtime.pdb
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\Microsoft.ApplicationInsights.xml
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\Microsoft.AI.DependencyCollector.xml
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\Microsoft.AI.WindowsServer.xml
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\Microsoft.AI.Web.xml
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\ru\System.Net.Http.Formatting.resources.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\ru\System.Web.Helpers.resources.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\ru\System.Web.Http.resources.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\ru\System.Web.Http.WebHost.resources.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\ru\System.Web.Mvc.resources.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\ru\System.Web.Optimization.resources.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\ru\System.Web.Razor.resources.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\ru\System.Web.WebPages.resources.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\obj\Debug\Lab_9.csprojAssemblyReference.cache
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\obj\Debug\Lab_9.Migrations.init.resources
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\obj\Debug\Lab_9.csproj.GenerateResource.cache
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\obj\Debug\Lab_9.csproj.CoreCompileInputs.cache
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\obj\Debug\Lab_9.csproj.CopyComplete
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\obj\Debug\Lab_9.dll
+E:\UNIVER\OPIP\WEB09SAM\Lab_9\obj\Debug\Lab_9.pdb
+D:\University\PWS\lab03\Lab_9\bin\ApplicationInsights.config
+D:\University\PWS\lab03\Lab_9\bin\Lab_9.dll.config
+D:\University\PWS\lab03\Lab_9\bin\Lab_9.dll
+D:\University\PWS\lab03\Lab_9\bin\Lab_9.pdb
+D:\University\PWS\lab03\Lab_9\bin\roslyn\csc.exe
+D:\University\PWS\lab03\Lab_9\bin\roslyn\csc.exe.config
+D:\University\PWS\lab03\Lab_9\bin\roslyn\csc.rsp
+D:\University\PWS\lab03\Lab_9\bin\roslyn\csi.exe
+D:\University\PWS\lab03\Lab_9\bin\roslyn\csi.exe.config
+D:\University\PWS\lab03\Lab_9\bin\roslyn\csi.rsp
+D:\University\PWS\lab03\Lab_9\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\University\PWS\lab03\Lab_9\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\University\PWS\lab03\Lab_9\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\System.AppContext.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\System.Collections.Immutable.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\System.Console.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\System.Diagnostics.Process.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\System.IO.Compression.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\System.IO.FileSystem.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\System.IO.Pipes.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\System.Reflection.Metadata.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\System.Security.AccessControl.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\System.Security.Claims.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\System.Security.Principal.Windows.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\System.Threading.Thread.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\System.ValueTuple.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\System.Xml.XmlDocument.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\System.Xml.XPath.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\University\PWS\lab03\Lab_9\bin\roslyn\vbc.exe
+D:\University\PWS\lab03\Lab_9\bin\roslyn\vbc.exe.config
+D:\University\PWS\lab03\Lab_9\bin\roslyn\vbc.rsp
+D:\University\PWS\lab03\Lab_9\bin\roslyn\VBCSCompiler.exe
+D:\University\PWS\lab03\Lab_9\bin\roslyn\VBCSCompiler.exe.config
+D:\University\PWS\lab03\Lab_9\bin\Antlr3.Runtime.dll
+D:\University\PWS\lab03\Lab_9\bin\EntityFramework.dll
+D:\University\PWS\lab03\Lab_9\bin\EntityFramework.SqlServer.dll
+D:\University\PWS\lab03\Lab_9\bin\Microsoft.AI.Agent.Intercept.dll
+D:\University\PWS\lab03\Lab_9\bin\Microsoft.AI.DependencyCollector.dll
+D:\University\PWS\lab03\Lab_9\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\University\PWS\lab03\Lab_9\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\University\PWS\lab03\Lab_9\bin\Microsoft.AI.Web.dll
+D:\University\PWS\lab03\Lab_9\bin\Microsoft.AI.WindowsServer.dll
+D:\University\PWS\lab03\Lab_9\bin\Microsoft.ApplicationInsights.dll
+D:\University\PWS\lab03\Lab_9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\University\PWS\lab03\Lab_9\bin\Microsoft.Web.Infrastructure.dll
+D:\University\PWS\lab03\Lab_9\bin\Newtonsoft.Json.dll
+D:\University\PWS\lab03\Lab_9\bin\System.Net.Http.Formatting.dll
+D:\University\PWS\lab03\Lab_9\bin\System.Web.Helpers.dll
+D:\University\PWS\lab03\Lab_9\bin\System.Web.Http.dll
+D:\University\PWS\lab03\Lab_9\bin\System.Web.Http.WebHost.dll
+D:\University\PWS\lab03\Lab_9\bin\System.Web.Mvc.dll
+D:\University\PWS\lab03\Lab_9\bin\System.Web.Optimization.dll
+D:\University\PWS\lab03\Lab_9\bin\System.Web.Razor.dll
+D:\University\PWS\lab03\Lab_9\bin\System.Web.WebPages.Deployment.dll
+D:\University\PWS\lab03\Lab_9\bin\System.Web.WebPages.dll
+D:\University\PWS\lab03\Lab_9\bin\System.Web.WebPages.Razor.dll
+D:\University\PWS\lab03\Lab_9\bin\WebGrease.dll
+D:\University\PWS\lab03\Lab_9\bin\EntityFramework.xml
+D:\University\PWS\lab03\Lab_9\bin\EntityFramework.SqlServer.xml
+D:\University\PWS\lab03\Lab_9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\University\PWS\lab03\Lab_9\bin\Newtonsoft.Json.xml
+D:\University\PWS\lab03\Lab_9\bin\System.Net.Http.Formatting.xml
+D:\University\PWS\lab03\Lab_9\bin\System.Web.Helpers.xml
+D:\University\PWS\lab03\Lab_9\bin\System.Web.Http.xml
+D:\University\PWS\lab03\Lab_9\bin\System.Web.Http.WebHost.xml
+D:\University\PWS\lab03\Lab_9\bin\System.Web.Mvc.xml
+D:\University\PWS\lab03\Lab_9\bin\System.Web.Optimization.xml
+D:\University\PWS\lab03\Lab_9\bin\System.Web.Razor.xml
+D:\University\PWS\lab03\Lab_9\bin\System.Web.WebPages.xml
+D:\University\PWS\lab03\Lab_9\bin\System.Web.WebPages.Deployment.xml
+D:\University\PWS\lab03\Lab_9\bin\System.Web.WebPages.Razor.xml
+D:\University\PWS\lab03\Lab_9\bin\Antlr3.Runtime.pdb
+D:\University\PWS\lab03\Lab_9\bin\Microsoft.ApplicationInsights.xml
+D:\University\PWS\lab03\Lab_9\bin\Microsoft.AI.DependencyCollector.xml
+D:\University\PWS\lab03\Lab_9\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\University\PWS\lab03\Lab_9\bin\Microsoft.AI.WindowsServer.xml
+D:\University\PWS\lab03\Lab_9\bin\Microsoft.AI.Web.xml
+D:\University\PWS\lab03\Lab_9\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\University\PWS\lab03\Lab_9\bin\ru\System.Web.Helpers.resources.dll
+D:\University\PWS\lab03\Lab_9\bin\ru\System.Web.Http.resources.dll
+D:\University\PWS\lab03\Lab_9\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\University\PWS\lab03\Lab_9\bin\ru\System.Web.Mvc.resources.dll
+D:\University\PWS\lab03\Lab_9\bin\ru\System.Web.Optimization.resources.dll
+D:\University\PWS\lab03\Lab_9\bin\ru\System.Web.Razor.resources.dll
+D:\University\PWS\lab03\Lab_9\bin\ru\System.Web.WebPages.resources.dll
+D:\University\PWS\lab03\Lab_9\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\University\PWS\lab03\Lab_9\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\University\PWS\lab03\Lab_9\obj\Debug\Lab_9.csprojAssemblyReference.cache
+D:\University\PWS\lab03\Lab_9\obj\Debug\Lab_9.Migrations.init.resources
+D:\University\PWS\lab03\Lab_9\obj\Debug\Lab_9.csproj.GenerateResource.cache
+D:\University\PWS\lab03\Lab_9\obj\Debug\Lab_9.csproj.CoreCompileInputs.cache
+D:\University\PWS\lab03\Lab_9\obj\Debug\Lab_9.csproj.CopyComplete
+D:\University\PWS\lab03\Lab_9\obj\Debug\Lab_9.dll
+D:\University\PWS\lab03\Lab_9\obj\Debug\Lab_9.pdb
