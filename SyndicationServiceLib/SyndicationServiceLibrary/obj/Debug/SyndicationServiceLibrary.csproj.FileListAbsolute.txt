@@ -1,0 +1,10 @@
+D:\University\PWS\SyndicationServiceLib\SyndicationServiceLibrary\bin\Debug\SyndicationServiceLibrary.dll.config
+D:\University\PWS\SyndicationServiceLib\SyndicationServiceLibrary\bin\Debug\SyndicationServiceLibrary.dll
+D:\University\PWS\SyndicationServiceLib\SyndicationServiceLibrary\bin\Debug\SyndicationServiceLibrary.pdb
+D:\University\PWS\SyndicationServiceLib\SyndicationServiceLibrary\obj\Debug\SyndicationServiceLibrary.csprojAssemblyReference.cache
+D:\University\PWS\SyndicationServiceLib\SyndicationServiceLibrary\obj\Debug\SyndicationServiceLibrary.csproj.CoreCompileInputs.cache
+D:\University\PWS\SyndicationServiceLib\SyndicationServiceLibrary\obj\Debug\SyndicationServiceLibrary.dll
+D:\University\PWS\SyndicationServiceLib\SyndicationServiceLibrary\obj\Debug\SyndicationServiceLibrary.pdb
+D:\University\PWS\SyndicationServiceLib\SyndicationServiceLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\University\PWS\SyndicationServiceLib\SyndicationServiceLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\University\PWS\SyndicationServiceLib\SyndicationServiceLibrary\obj\Debug\SyndicationServiceLibrary.csproj.CopyComplete

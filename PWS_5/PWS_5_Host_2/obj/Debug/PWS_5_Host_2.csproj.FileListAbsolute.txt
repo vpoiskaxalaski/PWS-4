@@ -1,0 +1,22 @@
+D:\Belstu\4 курс\ПВС\PWS_5\PWS_5_Host_2\bin\Debug\PWS_5_Host_2.exe.config
+D:\Belstu\4 курс\ПВС\PWS_5\PWS_5_Host_2\bin\Debug\PWS_5_Host_2.exe
+D:\Belstu\4 курс\ПВС\PWS_5\PWS_5_Host_2\bin\Debug\PWS_5_Host_2.pdb
+D:\Belstu\4 курс\ПВС\PWS_5\PWS_5_Host_2\bin\Debug\PWS_5_WCF.dll
+D:\Belstu\4 курс\ПВС\PWS_5\PWS_5_Host_2\bin\Debug\PWS_5_WCF.pdb
+D:\Belstu\4 курс\ПВС\PWS_5\PWS_5_Host_2\bin\Debug\PWS_5_WCF.dll.config
+D:\Belstu\4 курс\ПВС\PWS_5\PWS_5_Host_2\obj\Debug\PWS_5_Host_2.csprojAssemblyReference.cache
+D:\Belstu\4 курс\ПВС\PWS_5\PWS_5_Host_2\obj\Debug\PWS_5_Host_2.csproj.CoreCompileInputs.cache
+D:\Belstu\4 курс\ПВС\PWS_5\PWS_5_Host_2\obj\Debug\PWS_5_Host_2.csproj.CopyComplete
+D:\Belstu\4 курс\ПВС\PWS_5\PWS_5_Host_2\obj\Debug\PWS_5_Host_2.exe
+D:\Belstu\4 курс\ПВС\PWS_5\PWS_5_Host_2\obj\Debug\PWS_5_Host_2.pdb
+D:\University\PWS\PWS_5\PWS_5_Host_2\bin\Debug\PWS_5_Host_2.exe.config
+D:\University\PWS\PWS_5\PWS_5_Host_2\bin\Debug\PWS_5_Host_2.exe
+D:\University\PWS\PWS_5\PWS_5_Host_2\bin\Debug\PWS_5_Host_2.pdb
+D:\University\PWS\PWS_5\PWS_5_Host_2\bin\Debug\PWS_5_WCF.dll
+D:\University\PWS\PWS_5\PWS_5_Host_2\bin\Debug\PWS_5_WCF.pdb
+D:\University\PWS\PWS_5\PWS_5_Host_2\bin\Debug\PWS_5_WCF.dll.config
+D:\University\PWS\PWS_5\PWS_5_Host_2\obj\Debug\PWS_5_Host_2.csprojAssemblyReference.cache
+D:\University\PWS\PWS_5\PWS_5_Host_2\obj\Debug\PWS_5_Host_2.csproj.CoreCompileInputs.cache
+D:\University\PWS\PWS_5\PWS_5_Host_2\obj\Debug\PWS_5_Host_2.csproj.CopyComplete
+D:\University\PWS\PWS_5\PWS_5_Host_2\obj\Debug\PWS_5_Host_2.exe
+D:\University\PWS\PWS_5\PWS_5_Host_2\obj\Debug\PWS_5_Host_2.pdb

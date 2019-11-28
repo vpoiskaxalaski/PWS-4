@@ -1,0 +1,14 @@
+D:\Belstu\4 курс\ПВС\PWS_5\PWS_5_WCF\bin\Debug\PWS_5_WCF.dll.config
+D:\Belstu\4 курс\ПВС\PWS_5\PWS_5_WCF\bin\Debug\PWS_5_WCF.dll
+D:\Belstu\4 курс\ПВС\PWS_5\PWS_5_WCF\bin\Debug\PWS_5_WCF.pdb
+D:\Belstu\4 курс\ПВС\PWS_5\PWS_5_WCF\obj\Debug\PWS_5_WCF.csproj.CoreCompileInputs.cache
+D:\Belstu\4 курс\ПВС\PWS_5\PWS_5_WCF\obj\Debug\PWS_5_WCF.dll
+D:\Belstu\4 курс\ПВС\PWS_5\PWS_5_WCF\obj\Debug\PWS_5_WCF.pdb
+D:\Belstu\4 курс\ПВС\PWS_5\PWS_5_WCF\obj\Debug\PWS_5_WCF.csprojAssemblyReference.cache
+D:\University\PWS\PWS_5\PWS_5_WCF\bin\Debug\PWS_5_WCF.dll.config
+D:\University\PWS\PWS_5\PWS_5_WCF\bin\Debug\PWS_5_WCF.dll
+D:\University\PWS\PWS_5\PWS_5_WCF\bin\Debug\PWS_5_WCF.pdb
+D:\University\PWS\PWS_5\PWS_5_WCF\obj\Debug\PWS_5_WCF.csprojAssemblyReference.cache
+D:\University\PWS\PWS_5\PWS_5_WCF\obj\Debug\PWS_5_WCF.csproj.CoreCompileInputs.cache
+D:\University\PWS\PWS_5\PWS_5_WCF\obj\Debug\PWS_5_WCF.dll
+D:\University\PWS\PWS_5\PWS_5_WCF\obj\Debug\PWS_5_WCF.pdb

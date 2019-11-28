@@ -1,0 +1,10 @@
+D:\University\PWS\lab04\Simplex\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+D:\University\PWS\lab04\Simplex\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+D:\University\PWS\lab04\Simplex\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+D:\University\PWS\lab04\Simplex\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+D:\University\PWS\lab04\Simplex\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+D:\University\PWS\lab04\Simplex\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+D:\University\PWS\lab04\Simplex\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+D:\University\PWS\lab04\Simplex\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\University\PWS\lab04\Simplex\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+D:\University\PWS\lab04\Simplex\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
